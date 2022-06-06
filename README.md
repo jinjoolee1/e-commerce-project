@@ -30,3 +30,4 @@ THEN I am able to successfully create, update, and delete data in my database
 Fantastic Umbrella e-commerce API. With this application you can create, update, and delete products, categories, and tags. 
 
 ## **How to Use**
+On terminal, run ```node server.js```
