@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jinjoolee1/e-commerce-project#readme",
   "dependencies": {
+    "dotenv": "^16.0.1",
     "express": "^4.18.1",
     "sequelize": "^6.20.1"
   }
